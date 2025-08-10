@@ -2,7 +2,7 @@ import Hero from "@/components/hero";
 
 export default function Home() {
   return (
-   <div className= " h-screen bg-neutral-900 flex justify-center  ">
+   <div className= " h-screen bg-black flex justify-center  ">
     <Hero/>
    </div>
   );
